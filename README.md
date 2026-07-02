@@ -1,14 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neil Deshpande
 ======================================================================================================================================
 
-Student and Backend Developer
+Software Engineer
 -----------------------------
 
-Current undergraduate senior in Information Technology (IT) with dozens of classroom hours in core computer related courses. Able to learn new software and technologies quickly. Capable to work in teams by providing valuable support. Currently seeking an opportunity where I can utilize my knowledge to grow alongside the organization in the IT industry.
+I’m a software engineer who enjoys working close to the system, where performance, reliability, and correctness matter as much as features. I focus on improving complex backend systems by making them simpler to operate, more predictable under load, and easier to debug in production.
+
+I’m drawn to problems that surface at scale. Subtle performance issues, production failures and technical decisions with real business impact. I value strong engineering fundamentals and am looking to grow in backend focused roles working on large-scale systems
 
 *   🌍  I'm based in Pune, Maharashtra, India
 *   ✉️  You can contact me at [neildeshpande10@gmail.com](mailto:neildeshpande10@gmail.com)
-*   🧠  I'm learning Microsoft Azure and AWS Cloud Platform
+*   🧠  I'm learning how to build AI Agents.
 *   🤝  I'm open to collaborating on anything related to backend or software development.
 
 <a href="https://www.github.com/deshpandeneil" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/deshpandeneil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
